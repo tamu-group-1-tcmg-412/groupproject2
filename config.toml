@@ -1,4 +1,4 @@
 baseURL = 'http://tamu-group-1-tcmg-412.github.io/groupproject2/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme= "dimension"
+theme= "Dimension"
